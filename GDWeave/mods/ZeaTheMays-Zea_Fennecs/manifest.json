@@ -1,0 +1,5 @@
+{
+    "Id": "Zea.Fennec",
+    "PackPath": "zea.fennec.pck",
+    "Dependencies" : ["Sulayre.Lure"]
+}

@@ -1,0 +1,13 @@
+{
+  "Id": "WebfishingRichPresence",
+  "AssemblyPath": "WebfishingRichPresence.dll",
+  "PackPath": "WebfishingRichPresence.pck",
+  "Dependencies": [],
+  "Metadata": {
+    "Name": "WebfishingRichPresence",
+    "Author": "NotNite",
+    "Version": "1.1.0",
+    "Description": "Adds Discord Rich Presence to WEBFISHING",
+    "Homepage": "https://github.com/NotNite/WebfishingRichPresence"
+  }
+}

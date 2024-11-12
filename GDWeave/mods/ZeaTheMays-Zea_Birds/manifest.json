@@ -1,0 +1,5 @@
+{
+    "Id": "Zea.Bird",
+    "PackPath": "zea.bird.pck",
+    "Dependencies" : ["Sulayre.Lure"]
+}

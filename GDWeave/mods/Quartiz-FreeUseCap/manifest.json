@@ -1,0 +1,5 @@
+{
+    "Id": "FreeUseCap",
+    "PackPath": "freeusecap.pck",
+    "Dependencies": ["Sulayre.Lure"]
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Bashful Buckets",
+    "version": "1.0.1",
+    "description": "Prevents empty buckets from blocking interactions with full buckets.",
+    "author": "Sisyphe"
+}

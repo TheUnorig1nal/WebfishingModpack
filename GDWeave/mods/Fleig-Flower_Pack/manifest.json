@@ -1,0 +1,11 @@
+{
+    "Id": "Fleig.FlowerPack",
+    "PackPath": "Fleig.FlowerPack.pck",
+    "Metadata": {
+        "Name": "Flower Pack",
+        "Author": "fig, Fleig",
+        "Version": "1.0.0",
+        "Description": "Adds the Flower Pack accessory."
+    },
+    "Dependencies" : ["Sulayre.Lure"]
+}

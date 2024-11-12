@@ -1,0 +1,7 @@
+{
+    "name": "gay_people_in_my_modpack",
+    "description": "gay little modpack for gay little freaks",
+    "version_number": "1.0",
+    "website_url": "",
+    "dependencies": ["NotNet-GDWeave-2.0.13"]
+  }

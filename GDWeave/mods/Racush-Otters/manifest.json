@@ -1,0 +1,5 @@
+{
+    "Id": "otter",
+    "PackPath": "otter.pck",
+    "Dependencies": ["Sulayre.Lure"]
+}

@@ -1,0 +1,15 @@
+{
+  "Id": "emilcosmetics",
+  "AssemblyPath": null,
+  "PackPath": "emilcosmetics.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "emilcosmetics",
+    "Author": "emil",
+    "Version": "1.1.0",
+    "Description": "various cosmetics pack",
+    "Homepage": "https://github.com/protofailure/cospack"
+  }
+}

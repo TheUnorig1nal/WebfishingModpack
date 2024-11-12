@@ -1,0 +1,5 @@
+{
+    "Id": "DarnHyena.NautralTones",
+    "PackPath": "NautralTones.pck",
+	"Dependencies": ["Sulayre.Lure"]
+}

@@ -1,0 +1,5 @@
+{
+    "Id": "DarnHyena.YeenFishin",
+    "PackPath": "YeenFishin.pck",
+	"Dependencies": ["Sulayre.Lure"]
+}

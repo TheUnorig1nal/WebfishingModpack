@@ -1,0 +1,12 @@
+{
+  "Id": "Jous.Pandas",
+  "PackPath": "Jous.Pandas.pck",
+  "Dependencies": [ "Sulayre.Lure" ],
+  "Metadata":
+  {
+        "Name": "Jous-Pandas",
+        "Author": "Jousway",
+        "Version": "1.0.1",
+        "Description": "Panda Species."
+  }
+}

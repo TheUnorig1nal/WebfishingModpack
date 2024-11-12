@@ -1,0 +1,5 @@
+{
+  "Id": "Codsmetics",
+  "PackPath": "Codsmetics.pck",
+  "Dependencies": [ "Sulayre.Lure" ]
+}

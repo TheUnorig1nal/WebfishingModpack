@@ -1,0 +1,22 @@
+{
+  "id": "Zea.Raccoon",
+  "title": "Zea_Raccoons",
+  "author": "ZeaTheMays",
+  "description": "Adds Raccoons to Webfishing",
+  "version": "1.0.0",
+  "enabled": true,
+  "thunderstore_id": "ZeaTheMays-Zea_Raccoons",
+  "categories": [
+    "Species"
+  ],
+  "downloads": 925,
+  "likes": 3,
+  "last_updated": "2024-11-02T20:46:15.905213Z",
+  "is_deprecated": false,
+  "has_nsfw_content": false,
+  "website": "https://github.com/ZeaTheMays/Zea.Species",
+  "updated_on": 1730632802,
+  "dependencies": [
+    "Sulayre.Lure"
+  ]
+}

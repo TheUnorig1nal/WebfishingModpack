@@ -1,0 +1,5 @@
+{
+    "Id": "eng.cutecosmetics",
+    "PackPath": "eng.cutecosmetics.pck",
+    "Dependencies": ["Sulayre.Lure"]
+}

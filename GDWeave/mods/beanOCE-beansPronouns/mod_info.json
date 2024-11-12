@@ -1,0 +1,9 @@
+{
+  "id": "beanPronouns",
+  "title": "beanPronouns",
+  "author": "beanOCE",
+  "description": "Adds pronouns to WEBFISHING",
+  "version": "1.0.1",
+  "enabled": true,
+  "third_party": true
+}

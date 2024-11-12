@@ -1,0 +1,22 @@
+{
+  "id": "Zea.Goat",
+  "title": "Zea_Goats",
+  "author": "ZeaTheMays",
+  "description": "Adds Goats to Webfishing",
+  "version": "1.0.0",
+  "enabled": true,
+  "thunderstore_id": "ZeaTheMays-Zea_Goats",
+  "categories": [
+    "Species"
+  ],
+  "downloads": 757,
+  "likes": 2,
+  "last_updated": "2024-11-02T20:46:50.284034Z",
+  "is_deprecated": false,
+  "has_nsfw_content": false,
+  "website": "https://github.com/ZeaTheMays/Zea.Species",
+  "updated_on": 1730632803,
+  "dependencies": [
+    "Sulayre.Lure"
+  ]
+}

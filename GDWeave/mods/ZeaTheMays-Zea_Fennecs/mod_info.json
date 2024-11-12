@@ -1,0 +1,22 @@
+{
+  "id": "Zea.Fennec",
+  "title": "Zea_Fennecs",
+  "author": "ZeaTheMays",
+  "description": "Adds Fennecs to Webfishing",
+  "version": "1.0.0",
+  "enabled": true,
+  "thunderstore_id": "ZeaTheMays-Zea_Fennecs",
+  "categories": [
+    "Species"
+  ],
+  "downloads": 15,
+  "likes": 0,
+  "last_updated": "2024-11-03T10:01:15.415414Z",
+  "is_deprecated": false,
+  "has_nsfw_content": false,
+  "website": "https://github.com/ZeaTheMays/Zea.Species",
+  "updated_on": 1730632802,
+  "dependencies": [
+    "Sulayre.Lure"
+  ]
+}

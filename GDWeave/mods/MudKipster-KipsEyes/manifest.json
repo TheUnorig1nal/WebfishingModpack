@@ -1,0 +1,5 @@
+{
+  "Id": "MudKipster.KipsEyes",
+  "PackPath": "KipsEyes.pck",
+  "Dependencies": ["Sulayre.Lure"]
+}

@@ -1,0 +1,5 @@
+{
+    "Id": "Awesome Possum",
+    "PackPath": "awesomepossum.pck",
+	"Dependencies": ["Sulayre.Lure"]
+}

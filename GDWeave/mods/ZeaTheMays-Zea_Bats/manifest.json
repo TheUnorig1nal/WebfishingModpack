@@ -1,0 +1,5 @@
+{
+    "Id": "Zea.Bat",
+    "PackPath": "zea.bat.pck",
+    "Dependencies" : ["Sulayre.Lure"]
+}

@@ -1,0 +1,5 @@
+{
+    "Id": "HexedCyana.MaidOutfit",
+    "PackPath": "HexedCyanaMaidOutfit.pck",
+    "Dependencies": ["Sulayre.Lure"]
+}
